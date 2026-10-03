@@ -2,7 +2,9 @@
 
 ### *Automated Invoice Screening & Risk Assessment*
 
-![Invoice Risk Review Banner]()
+<p align="center">
+  <img src="examen-logo.png" alt="logo" width="180" />
+</p>
 
 > A full-stack platform for automated invoice verification, risk assessment, and human-in-the-loop review.
 
@@ -268,8 +270,3 @@ npm test
 ```
 
 ---
-
-
-## License
-
-Add your preferred license here.
